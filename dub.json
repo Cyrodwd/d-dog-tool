@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Cyrodwd"
+	],
+	"copyright": "Copyright © 2024, Cyrodwd",
+	"description": "Tool ähnlich wie UNIX “cat”, aber in Dlang geschrieben",
+	"license": "MIT",
+	"name": "dog"
+}
