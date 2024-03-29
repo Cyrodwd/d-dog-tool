@@ -14,7 +14,7 @@ $ dog poem.txt
 ```
 
 ## Build
-Make sure you have `dmd` and `dub` installed on your system. After,
+Make sure you have [`dmd`](https://dlang.org/download.html) and [`dub`](https://code.dlang.org) installed on your system. After,
 
 Simply:
 ```bash
