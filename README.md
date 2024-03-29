@@ -31,7 +31,7 @@ By the way, if you want, you can also use `doas`:
 $ doas mv dog /usr/local/bin
 ```
 
-That is, if you use a UNIX-based system, the process in Windows (and another systems) may vary (unfortunately I don't have a Windows computer so... ¯\_(ツ)_/¯ sorry.)
+That's if you use a UNIX-based system, the process in Windows (and another systems) may vary (unfortunately I don't have a Windows computer so... ¯\_(ツ)_/¯ sorry.)
 
 ### Contributions
 Your collaboration would be a great help and something I would appreciate, you are welcome to contribute. Of course, although it is obvious, you must know how to program in Dlang, and also avoid writing malicious code.
