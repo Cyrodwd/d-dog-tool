@@ -1,6 +1,6 @@
 # d-dog-tool
 
-**d-dog** is a simple command-line tool inspired by the UNIX `cat` command, implemented in the D programming language. It follows the UNIX philosophy of "do one thing and do it well." (maybe)
+**d-dog** is a simple command-line tool inspired by the UNIX `cat` command, implemented in the D programming language.
 
 ## Usage
 
