@@ -12,7 +12,7 @@ void main(string[] args)
     try {
         loadFile(args[1]);
     } catch (Exception e) {
-        writeln("ERROR: ", e.msg);
+        writeln("*ERROR*: ", e.msg);
     }
 }
 
@@ -21,8 +21,8 @@ void loadFile(string path) {
         string fileContent = readText(path);
         writeln(fileContent);
     } catch (FileException fe) {
-        writeln("ERROR: File not found or unable to read: ", fe.msg);
+        writeln("*ERROR*: ", fe.msg);
     } catch (Exception e) {
-        writeln("ERROR: ", e.msg);
+        writeln("*ERROR*: ", e.msg);
     }
 }
