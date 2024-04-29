@@ -71,7 +71,7 @@ If you want to run `dog.exe` from any location on the command line, you can add 
 * Click `OK` in all windows to save the changes.
 
 ### Contributions
-Your collaboration would be a great help and something I would appreciate, you are welcome to contribute. Of course, although it is obvious, you must know how to program in Dlang, and also avoid writing malicious code.
+Your collaboration would be a great help and something I would appreciate, you are welcome to contribute. Of course, although it is obvious, you must know how to program in Dlang, and also DO NOT write malicious code.
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
